@@ -27,10 +27,16 @@ Before running this project, make sure you have Python 3.7+ installed. You'll al
 ```bash
 git clone https://github.com/yourusername/multilingual-support-chatbot.git
 cd multilingual-support-chatbot
+```bash
 
 2. Create a virtual environment (recommended):
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```bash
 
 3. Install required dependencies:
+```bash
 pip install flask transformers torch
+pip install sentencepiece
+```bash
