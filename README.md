@@ -19,6 +19,11 @@ A Flask-based customer support chatbot with real-time multilingual translation c
 - Modern, responsive UI design
 - Real-time translation of responses
 
+![Screenshot_3](https://github.com/user-attachments/assets/7413abf3-ed15-40d1-9f82-a1aee48cfc80)
+![Screenshot_2](https://github.com/user-attachments/assets/1e5cda12-0799-4983-afd2-7e98eb7d06ac)
+![Screenshot_1](https://github.com/user-attachments/assets/274fe037-6187-45c4-912c-24d0cca2c6ef)
+
+
 # Prerequisites
 Before running this project, make sure you have Python 3.7+ installed. You'll also need pip for installing dependencies.
 
