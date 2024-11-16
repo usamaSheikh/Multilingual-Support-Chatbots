@@ -20,6 +20,10 @@ A Flask-based customer support chatbot with real-time multilingual translation c
 - Modern, responsive UI design
 - Real-time translation of responses
 
+![Screenshot_3](https://github.com/user-attachments/assets/d0966db5-8cea-4294-ace1-bc5dc0a8d38e)
+![Screenshot_1](https://github.com/user-attachments/assets/0be221d6-d9ad-4ae0-b119-7cd84a21adcf)
+
+
 ## Prerequisites
 
 Before running this project, make sure you have Python 3.7+ installed. You'll also need pip for installing dependencies.
@@ -121,19 +125,6 @@ Also, update the language selector in `index.html`:
 - Optimize translation for better performance
 - Add user authentication
 - Implement typing indicators and read receipts
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Hugging Face for the M2M100 translation model
-- Flask team for the excellent web framework
 
 ---
 
