@@ -24,8 +24,9 @@ Before running this project, make sure you have Python 3.7+ installed. You'll al
 
 # Installation
 1. Clone the repository:
-'''git clone https://github.com/yourusername/multilingual-support-chatbot.git'''
-'''cd multilingual-support-chatbot'''
+```bash
+git clone https://github.com/yourusername/multilingual-support-chatbot.git
+cd multilingual-support-chatbot
 
 2. Create a virtual environment (recommended):
 python -m venv venv
