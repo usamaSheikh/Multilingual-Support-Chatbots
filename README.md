@@ -33,10 +33,21 @@ cd multilingual-support-chatbot
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```bash
+```
 
 3. Install required dependencies:
 ```bash
 pip install flask transformers torch
 pip install sentencepiece
+```
+
+# Project Structure
 ```bash
+multilingual-support-chatbot/
+├── app.py
+├── templates/
+│   └── index.html
+├── README.md
+└── requirements.txt
+```
+
