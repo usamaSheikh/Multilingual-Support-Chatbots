@@ -5,16 +5,16 @@ A Flask-based customer support chatbot with real-time multilingual translation c
 # Features
 - Real-time chat interface
 - Support for 10 languages:
--- English
--- Spanish
--- French
--- German
--- Italian
--- Chinese
--- Japanese
--- Korean
--- Russian
--- Arabic
+  - English
+  - Spanish
+  - French
+  - German
+  - Italian
+  - Chinese
+  - Japanese
+  - Korean
+  - Russian
+  - Arabic
 - Keyword-based response system
 - Modern, responsive UI design
 - Real-time translation of responses
