@@ -27,7 +27,7 @@ Before running this project, make sure you have Python 3.7+ installed. You'll al
 ```bash
 git clone https://github.com/yourusername/multilingual-support-chatbot.git
 cd multilingual-support-chatbot
-```bash
+```
 
 2. Create a virtual environment (recommended):
 ```bash
