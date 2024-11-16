@@ -21,8 +21,7 @@ A Flask-based customer support chatbot with real-time multilingual translation c
 - Real-time translation of responses
 
 ![Screenshot_3](https://github.com/user-attachments/assets/d0966db5-8cea-4294-ace1-bc5dc0a8d38e)
-![Screenshot_1](https://github.com/user-attachments/assets/0be221d6-d9ad-4ae0-b119-7cd84a21adcf)
-
+![Screenshot_1](https://github.com/user-attachments/assets/68f43b2c-620b-4688-aae1-55843908a61a)
 
 ## Prerequisites
 
